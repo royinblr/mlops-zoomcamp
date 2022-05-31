@@ -48,6 +48,9 @@ How many files were saved to `OUTPUT_FOLDER`?
 * 4
 * 7
 
+![image](https://user-images.githubusercontent.com/21307959/171122317-1236d934-c23e-487c-950f-794c12080f9d.png)
+
+4 files were saved
 
 ## Q3. Train a model with autolog
 
