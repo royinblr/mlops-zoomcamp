@@ -13,6 +13,11 @@ Once you installed the package, run the command `mlflow --version` and check the
 
 What's the version that you have?
 
+1.24.0
+
+![image](https://user-images.githubusercontent.com/21307959/171105539-343fa08a-eacd-4d8f-83c1-85497ecd4fd5.png)
+
+
 
 ## Q2. Download and preprocess the data
 
