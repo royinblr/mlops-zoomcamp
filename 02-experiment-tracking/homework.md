@@ -126,6 +126,9 @@ What's the best validation RMSE that you got?
 * 7.128
 * 7.628
 
+![image](https://user-images.githubusercontent.com/21307959/171727701-547f9c29-4bf7-4bf2-b626-5582a46d5fc5.png)
+
+6.628
 
 ## Q6. Promote the best model to the model registry
 
@@ -143,6 +146,9 @@ What is the test RMSE of the best model?
 * 7.93
 * 15.1
 
+![image](https://user-images.githubusercontent.com/21307959/171731434-9f97e870-b968-4576-8705-d64e1d99b478.png)
+
+6.55
 
 ## Submit the results
 
