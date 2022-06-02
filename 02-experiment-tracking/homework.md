@@ -71,6 +71,14 @@ How many parameters are automatically logged by MLflow?
 * 10
 * 20
 
+![image](https://user-images.githubusercontent.com/21307959/171528896-370476e7-5926-4193-bb9d-a04ae01b840e.png)
+
+Successfully Enabled Autologging
+
+![image](https://user-images.githubusercontent.com/21307959/171528962-774fc429-dcae-4dae-9b63-79387e69833d.png)
+
+17 parameters automatically logged by MLFlow
+
 
 ## Q4. Launch the tracking server locally
 
@@ -90,6 +98,9 @@ In addition to `backend-store-uri`, what else do you need to pass to properly co
 * `artifacts-only`
 * `artifacts-destination`
 
+![image](https://user-images.githubusercontent.com/21307959/171531892-42275f8e-7d70-430a-ab60-ea761bd1fec0.png)
+
+`default-artifact-root`
 
 ## Q5. Tune the hyperparameters of the model
 
